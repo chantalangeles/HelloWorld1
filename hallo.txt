@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 blabla
+=======
+ich bin irgend eppis
+>>>>>>> master
